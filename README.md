@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Desenvolvedora em transição de carreira, apaixonada por tecnologia e inovação. Após 10 anos na educação, agora atuo como desenvolvedora front-end, criando projetos com HTML, CSS e JavaScript, enquanto me especializo em back-end com Node.js. Sempre aprendendo e buscando novos desafios! 🚀
+Desenvolvedora em transição de carreira, apaixonada por tecnologia e inovação. Após 10 anos na educação, agora atuo como desenvolvedora front-end, criando projetos com HTML, CSS e JavaScript, enquanto me especializo em back-end com tecnologias como Node.js. Sempre aprendendo e buscando novos desafios! 🚀
 
 <strong>Conecte-se comigo:</strong>
 <br>
